@@ -1,0 +1,29 @@
+{
+    "users": {
+        "uid_NONE_1": {
+            "game": {
+                "today": "2021-08-03T15:00:00.000Z",
+                "tryNum": 3,
+                "totalTime": 5,
+                "correctPercentage": 9.22
+            },
+            "selfTest": {
+                "today" : "2021년 8월 3일",
+                "resultScore": 3,
+                "riskType": "정상"
+            }
+        }, "uid_NONE_2": {
+            "game": {
+                "today": "2021-08-03T15:00:00.000Z",
+                "tryNum": 3,
+                "totalTime": 5,
+                "correctPercentage": 9.22
+            },
+            "selfTest": {
+                "today" : "2021년 8월 3일",
+                "resultScore": 3,
+                "riskType": "정상"
+            }
+        }
+    }
+}

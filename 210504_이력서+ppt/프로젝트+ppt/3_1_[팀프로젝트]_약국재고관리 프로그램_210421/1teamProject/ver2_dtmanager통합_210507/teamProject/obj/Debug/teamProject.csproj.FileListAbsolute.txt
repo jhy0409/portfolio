@@ -1,0 +1,40 @@
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.DrugCompInfo_Form.resources
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.DrugOrderForm.resources
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.UI.EmailForm.resources
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.MainForm.resources
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.MainDrugs.resources
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.Properties.Resources.resources
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.csproj.GenerateResource.cache
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.csproj.CoreCompileInputs.cache
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\bin\Debug\ONNURI Drugstore.exe.config
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\bin\Debug\ONNURI Drugstore.exe
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\bin\Debug\ONNURI Drugstore.pdb
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\ONNURI Drugstore.exe
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\ONNURI Drugstore.pdb
+D:\임시\Git\jhy0409\0 portfolio\약국 재고관리 앱\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\bin\Debug\ONNURI Drugstore.exe.config
+D:\임시\Git\jhy0409\0 portfolio\약국 재고관리 앱\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\bin\Debug\ONNURI Drugstore.exe
+D:\임시\Git\jhy0409\0 portfolio\약국 재고관리 앱\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\bin\Debug\ONNURI Drugstore.pdb
+D:\임시\Git\jhy0409\0 portfolio\약국 재고관리 앱\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.csprojAssemblyReference.cache
+D:\임시\Git\jhy0409\0 portfolio\약국 재고관리 앱\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.DrugCompInfo_Form.resources
+D:\임시\Git\jhy0409\0 portfolio\약국 재고관리 앱\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.DrugOrderForm.resources
+D:\임시\Git\jhy0409\0 portfolio\약국 재고관리 앱\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.UI.EmailForm.resources
+D:\임시\Git\jhy0409\0 portfolio\약국 재고관리 앱\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.MainForm.resources
+D:\임시\Git\jhy0409\0 portfolio\약국 재고관리 앱\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.MainDrugs.resources
+D:\임시\Git\jhy0409\0 portfolio\약국 재고관리 앱\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.Properties.Resources.resources
+D:\임시\Git\jhy0409\0 portfolio\약국 재고관리 앱\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.csproj.GenerateResource.cache
+D:\임시\Git\jhy0409\0 portfolio\약국 재고관리 앱\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.csproj.CoreCompileInputs.cache
+D:\임시\Git\jhy0409\0 portfolio\약국 재고관리 앱\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\ONNURI Drugstore.exe
+D:\임시\Git\jhy0409\0 portfolio\약국 재고관리 앱\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\ONNURI Drugstore.pdb
+D:\임시\Git\jhy0409\0 portfolio\210504_이력서+ppt\프로젝트+ppt\3_1_[팀프로젝트]_약국재고관리 프로그램_210421\1teamProject\teamProject\bin\Debug\ONNURI Drugstore.exe.config
+D:\임시\Git\jhy0409\0 portfolio\210504_이력서+ppt\프로젝트+ppt\3_1_[팀프로젝트]_약국재고관리 프로그램_210421\1teamProject\teamProject\bin\Debug\ONNURI Drugstore.exe
+D:\임시\Git\jhy0409\0 portfolio\210504_이력서+ppt\프로젝트+ppt\3_1_[팀프로젝트]_약국재고관리 프로그램_210421\1teamProject\teamProject\bin\Debug\ONNURI Drugstore.pdb
+D:\임시\Git\jhy0409\0 portfolio\210504_이력서+ppt\프로젝트+ppt\3_1_[팀프로젝트]_약국재고관리 프로그램_210421\1teamProject\teamProject\obj\Debug\teamProject.DrugCompInfo_Form.resources
+D:\임시\Git\jhy0409\0 portfolio\210504_이력서+ppt\프로젝트+ppt\3_1_[팀프로젝트]_약국재고관리 프로그램_210421\1teamProject\teamProject\obj\Debug\teamProject.DrugOrderForm.resources
+D:\임시\Git\jhy0409\0 portfolio\210504_이력서+ppt\프로젝트+ppt\3_1_[팀프로젝트]_약국재고관리 프로그램_210421\1teamProject\teamProject\obj\Debug\teamProject.UI.EmailForm.resources
+D:\임시\Git\jhy0409\0 portfolio\210504_이력서+ppt\프로젝트+ppt\3_1_[팀프로젝트]_약국재고관리 프로그램_210421\1teamProject\teamProject\obj\Debug\teamProject.MainForm.resources
+D:\임시\Git\jhy0409\0 portfolio\210504_이력서+ppt\프로젝트+ppt\3_1_[팀프로젝트]_약국재고관리 프로그램_210421\1teamProject\teamProject\obj\Debug\teamProject.MainDrugs.resources
+D:\임시\Git\jhy0409\0 portfolio\210504_이력서+ppt\프로젝트+ppt\3_1_[팀프로젝트]_약국재고관리 프로그램_210421\1teamProject\teamProject\obj\Debug\teamProject.Properties.Resources.resources
+D:\임시\Git\jhy0409\0 portfolio\210504_이력서+ppt\프로젝트+ppt\3_1_[팀프로젝트]_약국재고관리 프로그램_210421\1teamProject\teamProject\obj\Debug\teamProject.csproj.GenerateResource.cache
+D:\임시\Git\jhy0409\0 portfolio\210504_이력서+ppt\프로젝트+ppt\3_1_[팀프로젝트]_약국재고관리 프로그램_210421\1teamProject\teamProject\obj\Debug\teamProject.csproj.CoreCompileInputs.cache
+D:\임시\Git\jhy0409\0 portfolio\210504_이력서+ppt\프로젝트+ppt\3_1_[팀프로젝트]_약국재고관리 프로그램_210421\1teamProject\teamProject\obj\Debug\ONNURI Drugstore.exe
+D:\임시\Git\jhy0409\0 portfolio\210504_이력서+ppt\프로젝트+ppt\3_1_[팀프로젝트]_약국재고관리 프로그램_210421\1teamProject\teamProject\obj\Debug\ONNURI Drugstore.pdb

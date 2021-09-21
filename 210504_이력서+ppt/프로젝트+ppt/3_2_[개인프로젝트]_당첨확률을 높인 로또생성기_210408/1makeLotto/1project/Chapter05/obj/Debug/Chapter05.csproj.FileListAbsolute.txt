@@ -1,0 +1,49 @@
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic\Chapter05\Chapter05\bin\Debug\Chapter05.exe.config
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic\Chapter05\Chapter05\bin\Debug\Chapter05.exe
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic\Chapter05\Chapter05\bin\Debug\Chapter05.pdb
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic\Chapter05\Chapter05\obj\Debug\Chapter05.Form1.resources
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic\Chapter05\Chapter05\obj\Debug\Chapter05.Properties.Resources.resources
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic\Chapter05\Chapter05\obj\Debug\Chapter05.csproj.GenerateResource.cache
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic\Chapter05\Chapter05\obj\Debug\Chapter05.csproj.CoreCompileInputs.cache
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic\Chapter05\Chapter05\obj\Debug\Chapter05.exe
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic\Chapter05\Chapter05\obj\Debug\Chapter05.pdb
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic\Chapter05\Chapter05\obj\Debug\Chapter05.csprojAssemblyReference.cache
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\obj\Debug\Chapter05.Properties.Resources.resources
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\obj\Debug\Chapter05.csproj.GenerateResource.cache
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\obj\Debug\Chapter05.csproj.CoreCompileInputs.cache
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\obj\Debug\Chapter05.MainForm.resources
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto2\Chapter05\obj\Debug\Chapter05.csprojAssemblyReference.cache
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto2\Chapter05\obj\Debug\Chapter05.MainForm.resources
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto2\Chapter05\obj\Debug\Chapter05.Properties.Resources.resources
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto2\Chapter05\obj\Debug\Chapter05.csproj.GenerateResource.cache
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto2\Chapter05\obj\Debug\Chapter05.csproj.CoreCompileInputs.cache
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto2\Chapter05\obj\Debug\Chapter05.exe
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto2\Chapter05\obj\Debug\Chapter05.pdb
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto2\Chapter05\bin\Debug\Chapter05.exe.config
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto2\Chapter05\bin\Debug\Chapter05.exe
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto2\Chapter05\bin\Debug\Chapter05.pdb
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\obj\Debug\Chapter05.MainForm.resources
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\obj\Debug\Chapter05.Properties.Resources.resources
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\obj\Debug\Chapter05.csproj.GenerateResource.cache
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\obj\Debug\Chapter05.csproj.CoreCompileInputs.cache
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\bin\Debug\CxFlatUI.dll
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\bin\Debug\MaterialSkin.dll
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\bin\Debug\SunnyUI.Common.dll
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\bin\Debug\SunnyUI.dll
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\obj\Debug\Chapter05.csproj.CopyComplete
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\bin\Debug\makeLotto_v1_0.exe.config
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\bin\Debug\makeLotto_v1_0.exe
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\bin\Debug\makeLotto_v1_0.pdb
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\obj\Debug\makeLotto_v1_0.exe
+D:\임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\obj\Debug\makeLotto_v1_0.pdb
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\bin\Debug\makeLotto_v1_0.exe.config
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\bin\Debug\makeLotto_v1_0.exe
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\bin\Debug\makeLotto_v1_0.pdb
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\bin\Debug\CxFlatUI.dll
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\bin\Debug\MaterialSkin.dll
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\bin\Debug\SunnyUI.Common.dll
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\bin\Debug\SunnyUI.dll
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\obj\Debug\Chapter05.csprojAssemblyReference.cache
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\obj\Debug\Chapter05.csproj.CopyComplete
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\obj\Debug\makeLotto_v1_0.exe
+D:\9 임시\Git\jhy0409\2 vsStudio_P\210408_cSharp_basic_chap5\sukje_lotto\Chapter05\obj\Debug\makeLotto_v1_0.pdb
