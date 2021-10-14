@@ -7,7 +7,7 @@
 2. 자격증
 3. 프로젝트 및 PPT 파일
 
-폴더명 | 비고 | 언어 및 프로그램 | 설명 바로가기(노션)
+폴더명 | 비고 | 언어 및 프로그램 | 설명 바로가기   (노션)
 ---|---|---|---
 2_1_[iOS앱]_timerTtiling_210715 | 앱스토어 배포, 개인 프로젝트 |Swift, Xcode|[↘](https://www.notion.so/210715-3da810a8bec74ef9be348654af711f85)
 2_2_[iOS앱]_dasiBom_210729 | 개인 프로젝트 |Swift, Xcode|[↘](https://www.notion.so/210729-e30eed19fa24429590aa95b767e77a62)
