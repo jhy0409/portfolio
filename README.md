@@ -17,7 +17,7 @@
 2_5_[iOS앱]_FullScreenCamera_210512 | 작업완료 - 강의예제 |Swift, Xcode|[↘](https://www.notion.so/210512-FullScreen-e5470167e89c43aeba68b5a84518837f)
 2_6_[AOS앱]_Chatting_210921 | 작업완료 - 강의예제  |Swift, Xcode|[↘](https://www.notion.so/210921-Firebase-413a149b26fe48ce89365d0c1ad56ac1)
 2_7_[iOS, AOS앱]_Weather_ReactNative_210928 | 작업완료 - 강의예제 |React Native, Visual Studio Code| [↘](https://www.notion.so/210928-React-Native-04c0e3352f6f4d69ba22c372f5ccc901)
-3_1_[팀프로젝트]_약국재고관리 프로그램_210421 | 팀프로젝트 |C#, Visual Studio|[↘](https://www.notion.so/210331-C-Oracle-f3af7a02a03b49bba94cd02c234678ac)
+3_1_[팀프로젝트]_약국재고관리 프로그램_210421 | 팀프로젝트 |C#, Visual Studio|[↘](https://www.notion.so/210419-db85d1ceedd94ce0bedee037b54773d0)
 3_2_[개인프로젝트]_당첨확률을 높인 로또생성기_210408 | 개인 프로젝트 |C#, Visual Studio|[↘](https://www.notion.so/210408-b203b6df96ff408896c11980bf87c362)
 3_3_[개인프로젝트]_이마트키오스크_201215 | 개인 프로젝트 |C#, Visual Studio|[↘](https://www.notion.so/201223-559c141e2a26468eaa2631f038a69263)
 
