@@ -37,7 +37,7 @@ class HistoryViewController: UIViewController {
             
             // s s s s s
             self.TableView.reloadData()
-            print("---> snapshot: \(data)+ \(searchTerms)++")
+            print("\n---> snapshot: \(data)+ \(searchTerms)++")
         }
     }
 }
